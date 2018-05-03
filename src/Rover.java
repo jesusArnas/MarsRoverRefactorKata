@@ -4,6 +4,7 @@ public class Rover {
     private int y;
     private int x;
 
+
     public Rover(int x, int y, String direction) {
         this.direction = direction;
         this.y = y;
